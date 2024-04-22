@@ -7,7 +7,6 @@ authors = [
     { name = "elenakrittik", email = "dev.elenakrittik@gmail.com" },
 ]
 dependencies = [
-    "disnake",
     "fluent-runtime>=0.4.0",
 ]
 requires-python = ">=3.9"
